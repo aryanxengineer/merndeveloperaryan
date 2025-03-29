@@ -1,44 +1,57 @@
-# Hi there, I'm Aryan Yadav! 👋
+# Hey 👋, I'm Aryan Yadav!
 
-## 🚀 MERN Stack Developer | Full-Stack Enthusiast | Open Source Contributor
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=react)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
 
-I am a passionate **MERN Stack Developer** with a strong interest in **building scalable web applications** and **optimizing performance**. I enjoy solving problems with code and continuously learning new technologies.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Frontend:** React, Redux, Tailwind CSS, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, MongoDB
-- **Other Tools:** Git, GitHub, Postman, VS Code
+🚀 Full Stack Developer | MERN Stack Enthusiast | Passionate Coder
 
 ---
 
-### 📊 GitHub Stats
+### 🧐 About Me:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merndeveloperaryan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merndeveloperaryan&theme=tokyonight" alt="GitHub Streak" width="49%" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-- 🎯 **[Employee Management System](https://github.com/merndeveloperaryan/employee-management-system)** - A full-stack employee management system built with React, Node.js, and MongoDB.
-- 🎬 **[Movie App](https://github.com/merndeveloperaryan/movie-app)** - A sleek movie search app powered by React and an external API.
-- 🎨 **[OBYS Clone](https://github.com/merndeveloperaryan/obys-clone)** - A visually appealing UI/UX project using animations and Tailwind CSS.
-
-🔗 **More Projects:** Check out my repositories [here](https://github.com/merndeveloperaryan?tab=repositories)
+- 💻 I’m currently working on **MERN Stack Projects**
+- 🔥 I’m passionate about **React, Node.js, and Tailwind CSS**
+- 🎯 Currently learning **Performance Optimization in React**
+- 🤝 Open to **collaborations** and exciting projects
+- 📩 Reach me at **aryan.your@email.com**
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Tech Stack:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
 ---
 
-✨ **Fun Fact:** I love working with cutting-edge web technologies and continuously improving my skills! 🚀
+### 📊 GitHub Stats:
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merndeveloperaryan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merndeveloperaryan&layout=compact&theme=tokyonight)
+
+---
+
+### 🛠 Featured Projects:
+
+🚀 [**Project 1 Name**](https://github.com/your-project-link) - A brief description of the project.
+
+🚀 [**Project 2 Name**](https://github.com/your-project-link) - A brief description of the project.
+
+🚀 [**Project 3 Name**](https://github.com/your-project-link) - A brief description of the project.
+
+---
+
+### 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=react)](https://your-portfolio.com)
+
+🔥 **Always open to exciting projects and collaborations! Let's build something amazing together.**
