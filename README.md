@@ -14,7 +14,7 @@
 - 🔥 I’m passionate about **React, Node.js, and Tailwind CSS**
 - 🎯 Currently learning **Performance Optimization in React**
 - 🤝 Open to **collaborations** and exciting projects
-- 📩 Reach me at **merndeveloperaryan@email.com**
+- 📩 Reach me at **aryanxengineer@email.com**
 
 ---
 
