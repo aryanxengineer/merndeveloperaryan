@@ -1,6 +1,6 @@
 # Hey 👋, I'm Aryan Yadav!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryanxengineer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=react)](https://your-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
 
@@ -50,7 +50,7 @@
 ---
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryanxengineer)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=react)](https://your-portfolio.com)
 
